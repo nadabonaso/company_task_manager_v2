@@ -1,0 +1,10 @@
+admin$1$Register Users with taskManager.py$Use taskManager.py to add the usernames and passwords for all team members that will be using this program.$2021-01-24$agareg$Yes
+admin$2$Assign initial tasks$Use taskManager.py to assign each team member with appropriate tasks$2020-11-04$2021-02-01$Yes
+dev$3$Send the proposal$Please send me the mockup of the proposal for our new client, and include Sheila in the correspondence.$2021-01-04$2021-02-01$No
+dev$4$Run diagnostics$Make sure to complete testing.$2021-01-05$2021-01-06$No
+dev$5$Bring snacks$It's your turn to bring snacks, drinks and balloons for the office party.$2021-01-05$2020-10-05$No
+dev$6$Upgrade the servers$Hold on we need to upgrage and backup all the data from server A and B.$2021-01-06$2020-12-21$No
+admin$7$Monthly accounts$We need our tax return for financial year end.$2021-01-06$2000-03-12$No
+admin$8$Errands in town$Please go pick up the dry cleaning. We've also run out washing powder, so please pick some up on the way home.$2021-01-07$2020-12-12$Yes
+dev$9$Lock up the office$Please lock up after you leave tomorrow evening, we will be working remotely.$2021-01-08$2021-10-12$Yes
+bill$10$Project Management Meeting$We need to set up a kick-off meeting to plan the new design project starting in Novemeber, 2020$2021-01-08$2021-03-11$No
